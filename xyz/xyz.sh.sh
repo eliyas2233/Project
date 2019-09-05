@@ -8,4 +8,6 @@ echo "git pull"
 echo "git stash"
 echo "created by me"
 echo "done"
+echo "eliyas"
 echo "shafi"
+
